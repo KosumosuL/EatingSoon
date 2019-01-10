@@ -1,0 +1,15 @@
+<root>
+		<store grade="8.17" name="A" times="6">
+			<cuisine grade="8.0" name="a" times="5.0" />
+			<cuisine grade="7" name="b" times="1" />
+			<cuisine grade="9" name="c" times="2" />
+		</store>
+		<store grade="7.75" name="B" times="4">
+			<cuisine grade="8" name="aa" times="3" />
+			<cuisine grade="7" name="bb" times="1" />
+		</store>
+	<store grade="5" name="ASD" times="1"><cuisine grade="5" name="ccc" times="1" />
+</store>
+<store grade="8" name="&#27721;&#22561;&#29579;" times="1"><cuisine grade="8" name="&#27721;&#22561;" times="1" />
+</store>
+</root>
